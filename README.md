@@ -1,4 +1,15 @@
-# Simple Quiz CLI App
-This is a simple CLI app in JavaScript that tests your general knowledge.
+# Simple Quiz
 
-Play the game here: https://repl.it/@TuhinDas5/SimpleQuiz?embed=1&output=1
+<div align="center">
+    <img src="./demo.gif" alt="screenshot of simple quiz">
+</div>
+
+## About
+
+This is a basic CLI quiz in JavaScript about general knowledge.
+
+This quiz was built during `levelZero` of [neogcamp](https://neog.camp) to understand the basics of JavaScript.
+
+## Demo
+
+[Click here](https://replit.com/@TuhinDas5/SimpleQuiz?embed=1&output=1) to play the game.
